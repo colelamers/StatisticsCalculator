@@ -1,0 +1,10 @@
+standard deviation useage in the application
+
+basically just put your deviation value in the z-val Dev text box
+then put your mean in the x/mean textbox
+
+z-val Dev = 35
+x/mean = 300
+
+Bell Curve X:
+195, 230, 265 || 335, 370, 405

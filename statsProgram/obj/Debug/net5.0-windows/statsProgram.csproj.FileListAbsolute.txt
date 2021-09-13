@@ -1,0 +1,36 @@
+C:\Users\Zen\source\repos\statsProgram\statsProgram\bin\Debug\net5.0-windows\statsProgram.exe
+C:\Users\Zen\source\repos\statsProgram\statsProgram\bin\Debug\net5.0-windows\statsProgram.deps.json
+C:\Users\Zen\source\repos\statsProgram\statsProgram\bin\Debug\net5.0-windows\statsProgram.runtimeconfig.json
+C:\Users\Zen\source\repos\statsProgram\statsProgram\bin\Debug\net5.0-windows\statsProgram.runtimeconfig.dev.json
+C:\Users\Zen\source\repos\statsProgram\statsProgram\bin\Debug\net5.0-windows\statsProgram.dll
+C:\Users\Zen\source\repos\statsProgram\statsProgram\bin\Debug\net5.0-windows\ref\statsProgram.dll
+C:\Users\Zen\source\repos\statsProgram\statsProgram\bin\Debug\net5.0-windows\statsProgram.pdb
+C:\Users\Zen\source\repos\statsProgram\statsProgram\obj\Debug\net5.0-windows\statsProgram.csproj.AssemblyReference.cache
+C:\Users\Zen\source\repos\statsProgram\statsProgram\obj\Debug\net5.0-windows\statsProgram.csproj.GenerateResource.cache
+C:\Users\Zen\source\repos\statsProgram\statsProgram\obj\Debug\net5.0-windows\statsProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zen\source\repos\statsProgram\statsProgram\obj\Debug\net5.0-windows\statsProgram.AssemblyInfoInputs.cache
+C:\Users\Zen\source\repos\statsProgram\statsProgram\obj\Debug\net5.0-windows\statsProgram.AssemblyInfo.cs
+C:\Users\Zen\source\repos\statsProgram\statsProgram\obj\Debug\net5.0-windows\statsProgram.csproj.CoreCompileInputs.cache
+C:\Users\Zen\source\repos\statsProgram\statsProgram\obj\Debug\net5.0-windows\statsProgram.dll
+C:\Users\Zen\source\repos\statsProgram\statsProgram\obj\Debug\net5.0-windows\ref\statsProgram.dll
+C:\Users\Zen\source\repos\statsProgram\statsProgram\obj\Debug\net5.0-windows\statsProgram.pdb
+C:\Users\Zen\source\repos\statsProgram\statsProgram\obj\Debug\net5.0-windows\statsProgram.genruntimeconfig.cache
+C:\Users\Zen\source\repos\statsProgram\statsProgram\obj\Debug\net5.0-windows\statsProgram.rtReorganized.resources
+B:\BackupDriveDataRoot\School\Current Classes\MATH260\chapter3_program\statsProgram\bin\Debug\net5.0-windows\statsProgram.exe
+B:\BackupDriveDataRoot\School\Current Classes\MATH260\chapter3_program\statsProgram\bin\Debug\net5.0-windows\statsProgram.deps.json
+B:\BackupDriveDataRoot\School\Current Classes\MATH260\chapter3_program\statsProgram\bin\Debug\net5.0-windows\statsProgram.runtimeconfig.json
+B:\BackupDriveDataRoot\School\Current Classes\MATH260\chapter3_program\statsProgram\bin\Debug\net5.0-windows\statsProgram.runtimeconfig.dev.json
+B:\BackupDriveDataRoot\School\Current Classes\MATH260\chapter3_program\statsProgram\bin\Debug\net5.0-windows\statsProgram.dll
+B:\BackupDriveDataRoot\School\Current Classes\MATH260\chapter3_program\statsProgram\bin\Debug\net5.0-windows\ref\statsProgram.dll
+B:\BackupDriveDataRoot\School\Current Classes\MATH260\chapter3_program\statsProgram\bin\Debug\net5.0-windows\statsProgram.pdb
+B:\BackupDriveDataRoot\School\Current Classes\MATH260\chapter3_program\statsProgram\obj\Debug\net5.0-windows\statsProgram.csproj.AssemblyReference.cache
+B:\BackupDriveDataRoot\School\Current Classes\MATH260\chapter3_program\statsProgram\obj\Debug\net5.0-windows\statsProgram.rtReorganized.resources
+B:\BackupDriveDataRoot\School\Current Classes\MATH260\chapter3_program\statsProgram\obj\Debug\net5.0-windows\statsProgram.csproj.GenerateResource.cache
+B:\BackupDriveDataRoot\School\Current Classes\MATH260\chapter3_program\statsProgram\obj\Debug\net5.0-windows\statsProgram.GeneratedMSBuildEditorConfig.editorconfig
+B:\BackupDriveDataRoot\School\Current Classes\MATH260\chapter3_program\statsProgram\obj\Debug\net5.0-windows\statsProgram.AssemblyInfoInputs.cache
+B:\BackupDriveDataRoot\School\Current Classes\MATH260\chapter3_program\statsProgram\obj\Debug\net5.0-windows\statsProgram.AssemblyInfo.cs
+B:\BackupDriveDataRoot\School\Current Classes\MATH260\chapter3_program\statsProgram\obj\Debug\net5.0-windows\statsProgram.csproj.CoreCompileInputs.cache
+B:\BackupDriveDataRoot\School\Current Classes\MATH260\chapter3_program\statsProgram\obj\Debug\net5.0-windows\statsProgram.dll
+B:\BackupDriveDataRoot\School\Current Classes\MATH260\chapter3_program\statsProgram\obj\Debug\net5.0-windows\ref\statsProgram.dll
+B:\BackupDriveDataRoot\School\Current Classes\MATH260\chapter3_program\statsProgram\obj\Debug\net5.0-windows\statsProgram.pdb
+B:\BackupDriveDataRoot\School\Current Classes\MATH260\chapter3_program\statsProgram\obj\Debug\net5.0-windows\statsProgram.genruntimeconfig.cache
